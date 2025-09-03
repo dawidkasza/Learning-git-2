@@ -5,15 +5,21 @@
 body {
 	margin:0;
    text-align: center;
-   background: #fff;
+   background: #cfcaca;
    color: #3d3d3d;
    font-size: 16px;
    line-height: 1.7;
    font-family: "Open Sans", sans-serif;
 }
 
+
 h1 {
 	text-decoration: underline;
+}
+
+h1 a {
+	text-decoration: none;
+	color:#3d3d3d;
 }
 
 span {
